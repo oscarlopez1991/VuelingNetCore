@@ -1,0 +1,14 @@
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/bin/Debug/netcoreapp2.2/GNB.AspNetCore.Application.deps.json
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/bin/Debug/netcoreapp2.2/GNB.AspNetCore.Application.runtimeconfig.json
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/bin/Debug/netcoreapp2.2/GNB.AspNetCore.Application.runtimeconfig.dev.json
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/bin/Debug/netcoreapp2.2/GNB.AspNetCore.Application.dll
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/bin/Debug/netcoreapp2.2/GNB.AspNetCore.Application.pdb
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/obj/Debug/netcoreapp2.2/GNB.AspNetCore.Application.csproj.CoreCompileInputs.cache
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/obj/Debug/netcoreapp2.2/GNB.AspNetCore.Application.RazorAssemblyInfo.cache
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/obj/Debug/netcoreapp2.2/GNB.AspNetCore.Application.RazorAssemblyInfo.cs
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/obj/Debug/netcoreapp2.2/GNB.AspNetCore.Application.AssemblyInfoInputs.cache
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/obj/Debug/netcoreapp2.2/GNB.AspNetCore.Application.AssemblyInfo.cs
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/obj/Debug/netcoreapp2.2/GNB.AspNetCore.Application.RazorTargetAssemblyInfo.cache
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/obj/Debug/netcoreapp2.2/GNB.AspNetCore.Application.dll
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/obj/Debug/netcoreapp2.2/GNB.AspNetCore.Application.pdb
+/Users/oscarlopez/Projects/GNB.AspNetCore.Application/GNB.AspNetCore.Application/obj/Debug/netcoreapp2.2/GNB.AspNetCore.Application.csprojAssemblyReference.cache

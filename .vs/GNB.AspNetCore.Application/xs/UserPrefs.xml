@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{F774F073-A96F-46F3-924D-352EA7B9345B}|Default">
+  <MonoDevelop.Ide.ItemProperties.GNB.AspNetCore.Application PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GNB.AspNetCore.Application/Models/Transactions.cs">
+    <Files>
+      <File FileName="GNB.AspNetCore.Application/Repositories/TransactionRepository.cs" Line="17" Column="36" />
+      <File FileName="GNB.AspNetCore.Application/Repositories/Contracts/ITransactionRepository.cs" Line="12" Column="43" />
+      <File FileName="GNB.AspNetCore.Application/Services/RatesService.cs" Line="21" Column="10" />
+      <File FileName="GNB.AspNetCore.Application/Repositories/Contracts/IRateRepository.cs" Line="8" Column="29" />
+      <File FileName="GNB.AspNetCore.Application/Repositories/RateRepository.cs" Line="18" Column="36" />
+      <File FileName="GNB.AspNetCore.Application/Services/TransactionsService.cs" Line="46" Column="164" />
+      <File FileName="GNB.AspNetCore.Application/Services/Contracts/ITransactionsService.cs" Line="13" Column="6" />
+      <File FileName="GNB.AspNetCore.Application/Startup.cs" Line="33" Column="81" />
+      <File FileName="GNB.AspNetCore.Application/DTOs/RatesDTO.cs" Line="7" Column="42" />
+      <File FileName="GNB.AspNetCore.Application/Services/TransactionsBySkuService.cs" Line="24" Column="1" />
+      <File FileName="GNB.AspNetCore.Application/DTOs/TransactionsDTO.cs" Line="1" Column="1" />
+      <File FileName="GNB.AspNetCore.Application/Models/Transactions.cs" Line="14" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GNB.AspNetCore.Application" expanded="True">
+            <Node name="GNB.AspNetCore.Application" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Transactions.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
